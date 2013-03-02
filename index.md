@@ -1,3 +1,7 @@
+---
+Title: $( elements ).generateId( [preferredId] )
+---
+
 # Generate ID
 
 Generate unique ID attributes on DOM elements.
