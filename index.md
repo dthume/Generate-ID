@@ -1,5 +1,6 @@
 ---
-Title: $( elements ).generateId( [preferredId] )
+layout: default
+title: $( elements ).generateId( [preferredId] )
 ---
 
 # Generate ID
